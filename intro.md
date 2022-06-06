@@ -25,7 +25,7 @@
 
 1. 其中 [jd_bean_sign.js](https://github.coml499477004/JD-scripts/raw/master/jd_bean_sign.js) 可N个京东账号，Node.js专用，核心脚本是JD_DailyBonus.js， IOS软件用户请使用NobyDa的 [JD_DailyBonus.js](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
 
-2. 以字母排序。
+2. 以字母排序。1
 
 <!-- 这是隐藏信息，用来给 update_list.sh 脚本提供标记信息的，用于自动生成下面的脚本清单，请勿删除这里的标记信息。 -->
 <!-- 此表格由 update_list.sh 脚本自动生成，请不要人工修改。 -->
